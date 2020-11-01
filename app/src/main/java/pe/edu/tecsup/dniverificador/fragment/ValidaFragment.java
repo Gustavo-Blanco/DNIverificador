@@ -63,7 +63,7 @@ public class ValidaFragment extends Fragment {
                     Bundle bundle = new Bundle();
                     bundle.putBoolean("boolean",false);
 
-                    if(StringCode.equals(numbers[resta+1]) || StringCode.equals(letters[resta+1])){
+                    if(StringCode.equals(numbers[resta]) || StringCode.equals(letters[resta])){
                         bundle.putBoolean("boolean",true);
                     }
 
