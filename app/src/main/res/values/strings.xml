@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DNIVerificador</string>
+    <string name="DNI">DNI</string>
+    <string name="content_description_end_icon">Descripcion</string>
+    <string name="Code">Código verificador</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="validar">Validar</string>
+    <string name="imagen">imagen</string>
+    <string name="correct">Validación exitosa</string>
+    <string name="incorrect">Error en la validación</string>
+
+</resources>
